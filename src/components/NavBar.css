@@ -1,0 +1,27 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.Navbar {
+    overflow: hidden;
+    list-style: none;
+    padding: -1px 10px;
+    background-color: black;
+    box-shadow: #FF7603;
+
+  }
+  
+  .Navbar a {
+    float: left;
+    color: #FF7603;
+    font-family: 'Langar', cursive;
+
+    text-align: center;
+    padding-left: 5px;
+    text-decoration: none;
+    font-size: 1.25rem;
+    list-style: none;
+    margin-left: 0.5rem;
+  }
+

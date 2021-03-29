@@ -1,0 +1,67 @@
+.MyProjImage{
+    float: left;
+    
+}
+.projimages{
+    /* 
+    width: 100%;
+    height: 100%; */
+    /* display: block; */
+    padding-bottom: 1.25rem;
+    margin-left: 0.25rem; 
+    /* left: 15px; */
+    float: left;
+}
+
+.container{
+    display: flex;
+    float:center;
+    margin-left: 0.25rem;  
+    
+
+}
+.links{
+    color: #FF7603;
+    display: block;
+}
+.learned{
+    margin-bottom: 0.5rem;  
+}
+.Content{
+    width: 90%; 
+    margin: 10px;
+    height: 100%;
+    text-align: center;
+    padding: 0px 0px;
+   
+}
+.description{
+    margin-bottom: 5px;
+
+}
+.learned{
+    margin-bottom: 5px;
+}
+.projimages{
+    height: 275px;
+    width: 400px;
+    vertical-align: middle;
+}
+.heading,.Project_heading{
+    text-align: center;
+    text-decoration: underline;
+    color: #FF7603;
+
+
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    color: #FF7603;
+    display: inline-table;
+    margin-bottom: 5px;
+
+
+
+
+}    
